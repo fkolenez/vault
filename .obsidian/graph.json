@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 10181046
       }
+    },
+    {
+      "query": "tag:#biologia  tag:",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 9.26048780487805,
   "linkStrength": 1,
   "linkDistance": 52,
-  "scale": 0.7132754626224392,
+  "scale": 0.7132754626224382,
   "close": false
 }

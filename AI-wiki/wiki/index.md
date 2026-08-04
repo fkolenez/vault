@@ -28,10 +28,8 @@ Esta é a única raiz da categoria `llm-wiki`. A navegação segue a hierarquia 
 
 ## Blocos
 
-- [[my-vault/IFC/Empreendedorismo/Marketing|Marketing]]
+- [[AI-wiki/wiki/blocos/Negócios e Marketing|Negócios e Marketing]]
 - [[AI-wiki/wiki/blocos/Tecnologia|Tecnologia]]
-- [[AI-wiki/wiki/blocos/Ciências e Matemática|Ciências e Matemática]]
-- [[AI-wiki/wiki/blocos/Acervo e Projetos|Acervo e Projetos]]
 
 ## Manutenção
 

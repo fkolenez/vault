@@ -18,9 +18,6 @@ sources: []
 2. [[my-vault/IFC/Física/Elétroestatica/Potencial elétrico|Potencial elétrico]] — energia por unidade de carga e diferença de potencial.
 3. [[my-vault/IFC/Física/Elétroestatica/Capacitores em série ou paralelo|Capacitores]] — carga, capacitância, energia e associações.
 
-## Conexões
-
-- Bloco: [[wiki/blocos/Ciências e Matemática|Ciências e Matemática]].
 ## Lacunas
 
 Força elétrica, Lei de Gauss, circuitos, magnetismo, ondas e mecânica ainda não possuem páginas canônicas neste eixo.

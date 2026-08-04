@@ -18,10 +18,7 @@ sources: []
 2. [[my-vault/IFC/Má temática/Equação geral, reduzida e determinantes|Equações da reta]].
 
 ## Conexões
-
-- Bloco: [[wiki/blocos/Ciências e Matemática|Ciências e Matemática]].
 - Distâncias, vetores e funções são utilizados diretamente nos modelos de [[wiki/temas/Física|Física]].
-
 ## Lacunas
 
 Funções, trigonometria, probabilidade, estatística, cálculo e álgebra linear precisam de sínteses próprias.

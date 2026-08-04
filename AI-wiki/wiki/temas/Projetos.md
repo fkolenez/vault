@@ -12,8 +12,6 @@ sources: []
 
 > Especificações de produtos e laboratórios pessoais, organizadas por problema, escopo, decisões, riscos e próximos passos.
 
-Bloco: [[AI-wiki/wiki/blocos/Acervo e Projetos|Acervo e Projetos]].
-
 ## Projetos ativos
 
 - [[my-vault/Projetos/CarrerOS|CareerOS]] — sistema pessoal de estudos e desenvolvimento profissional.

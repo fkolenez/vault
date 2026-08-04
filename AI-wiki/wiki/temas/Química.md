@@ -12,8 +12,6 @@ sources: []
 
 > O eixo atual possui uma introdução aos grupos funcionais da química orgânica e um anexo estrutural no Ketcher.
 
-Bloco: [[wiki/blocos/Ciências e Matemática|Ciências e Matemática]].
-
 ## Trilha
 
 - [[my-vault/IFC/Química/Funções orgânicas|Funções orgânicas]] — identificação de hidrocarbonetos e funções oxigenadas, halogenadas e nitrogenadas.

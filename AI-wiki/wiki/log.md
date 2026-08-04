@@ -60,3 +60,9 @@ Entradas são acrescentadas ao final e não devem ser reescritas.
 - Separados problema, proposta, MVP, roadmap, riscos, critérios de sucesso e próximos passos.
 - Criado o tema Projetos dentro do bloco Acervo e Projetos.
 - Evitadas conexões automáticas com áreas técnicas baseadas apenas nas tecnologias citadas.
+
+## [2026-08-04] ingest | Fundamentos de redes e switches
+
+- Revisadas as notas `Introdução a redes.md` e `Construindo redes com switches.md`.
+- Corrigidos conceitos de ICMP, TTL, traceroute, hub, DNS, cabeamento, tabela MAC e ARP.
+- Adicionados frontmatter, trilha didática, questões de revisão e links bidirecionais com o tema Redes.

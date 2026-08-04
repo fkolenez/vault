@@ -12,8 +12,6 @@ sources: []
 
 > Genética estuda herança, variação e expressão da informação biológica; as notas atuais priorizam padrões mendelianos e suas extensões.
 
-Bloco: [[wiki/blocos/Ciências e Matemática|Ciências e Matemática]].
-
 ## Fundamentos mendelianos
 
 1. [[my-vault/IFC/Genética/1° Lei de mendel|Primeira lei de Mendel]] — segregação de alelos.
