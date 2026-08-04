@@ -110,5 +110,3 @@ Use o repositório assim:
 
 - [my-vault](my-vault) para guardar conhecimento e estudo;
 - [AI-wiki](AI-wiki) para transformar esse conhecimento em uma base consultável pela IA.
-
-Se quiser, no futuro posso também montar um README mais bonito e mais detalhado para cada uma dessas pastas separadamente.
