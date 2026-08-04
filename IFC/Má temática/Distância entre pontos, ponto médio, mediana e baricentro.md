@@ -13,13 +13,13 @@ Pense em um triangulo retângulo ABC em que BC é a hipotenusa, se BC  é a hipo
 
 Se tu calcular o ponto médio de BC (ponto em destaque) e traçar uma linha reta nele essa linha vai cruzar o vértice A conceitualmente é isso.
 
-![[tesao 1.png]]
+![[../../img/matematica/tesao%201.png]]
 
 ### Baricentro
 - Como o próprio nome sugere, é o centro de alguma coisa
 - Pense em um triangulo equilátero DEF, baricentro é **o encontro das três medianas do triangulo**
 
-![[tesao2.png]]
+![[../../img/matematica/tesao2.png]]
 
 O ponto em destaque é então o baricentro
 

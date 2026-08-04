@@ -62,4 +62,5 @@ Existe também uma correção feita via software chamada **Auto MDI/MDIX**, que 
 ![Padrão RJ45](imagens/aula01/rj45.png)
 
 > "Quando utilizamos um padrão diferente em cada ponta, o que estamos fazendo é ligar os pinos que transmitem dados em um dispositivo com os que recebem dados no outro. Dessa forma, evitamos colisões de dados." - 
+
 [Entendendo cabos de rede](https://www.alura.com.br/artigos/entendendo-os-cabos-de-rede)

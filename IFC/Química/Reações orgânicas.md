@@ -20,7 +20,7 @@ $$ Ka = \frac{[H^+] * [Reagente]}{[Produto]} $$
  - Em um ácido carboxílico, quando a ligação do H da hidroxila é quebrada formando cátions $\ce{H+}$
 a dupla ligação do oxigênio passa a migrar pra ligação que antes era do H, isso deixa o produto da reação mais estável.
 
-![[Pasted image 20241104213215.png]]
+![[../../img/quimica/Pasted image 20241104213215.png]]
 
 ### Efeito indutivo
 - Cria regiões eletronegativas dentro da molécula, fazendo com que o H fique mais positivo, quebrando sua ligação mais facilmente, se a ligação do $\ce{H+}$ é quebrada mais facilmente significa que ele libera mais íons $\ce{H+}$ tornando-se mais ácido. 
@@ -29,4 +29,4 @@ a dupla ligação do oxigênio passa a migrar pra ligação que antes era do H, 
 ### Acidez dos fenóis:
 - É o mesmo [[#Efeito de ressonância]] porém dentro de um anel aromático, ele ocorre dentro do anel de modo com que o elétron dele migra de posição no que seriam as duplas ligações dos carbonos
 
-![[Pasted image 20241104213036.png]]
+![[../../img/quimica/Pasted image 20241104213036.png]]

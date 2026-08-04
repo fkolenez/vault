@@ -20,7 +20,7 @@ No verão $Iv = \frac{2800}{220} = 12.73A$
 e) Indique no esquema as ligações inverno e verão. 
 
 R:
-![[Pasted image 20241203185843.png]]
+![[../../img/fisica/Pasted image 20241203185843.png]]
 
 f) De acordo com suas observações, você diria que o aumento no comprimento do filamento dificulta ou favorece a passagem de corrente elétrica? Explique.
 R: Pesquisando um pouco descobri a 2° Lei de Ohm ($R = ρ * \frac{L}{A}$) , aonde:

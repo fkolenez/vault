@@ -12,7 +12,7 @@ Quanto menor melhor, o ideal é não soletrar. pontuação também não é legal
 
 Quanto mais caracteres tiver mais em baixo fica na barra de busca
 
-![[Pasted image 20250506084918.png]]
+> Imagem não disponível no repositório no momento.
 
 No caso de compra de um username (entrar em contato com a pessoa e pagar para ela alterar), o nome fica disponível apenas dps de 14 dias. Se vc comprou dia 1 de janeiro as 18:00, dia 15 as 18:01 o username estará disponível.
 

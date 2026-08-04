@@ -29,14 +29,14 @@ Exemplo 1:
 	$y = \frac{-1}{2}$
 	Observando a equação não existe valor para X, então é uma reta constante paralela ao eixo X
 
-![[Pasted image 20241030213655.png]]
+![[../../img/matematica/Pasted image 20241030213655.png]]
 
 Exemplo 2:
 	$-X + 3 = 0$         *// isolando X*
 	3 = +X
 	Se não tem valor para Y então a reta é constante e paralela ao eixo Y
 
-![[Pasted image 20241030213739.png]]
+![[../../img/matematica/Pasted image 20241030213739.png]]
 
 Exemplo 3:
 	$2X - 1 - Y = 0$         *// isolando Y*
@@ -44,7 +44,7 @@ Exemplo 3:
 
 Plotando o gráfico da equação, observa-se que de fato o valor de N (-1) cruza o eixo Y nessa exata coordenada e a reta é crescente.
 
-![[Pasted image 20241030213157.png]]
+![[../../img/matematica/Pasted image 20241030213157.png]]
 
 O Coeficiente angular também pode ser calculado através do ângulo formado em relação ao 
 **eixo X**,  $M = \tan{\alpha}$

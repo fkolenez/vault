@@ -9,7 +9,7 @@ Um ponto A no campo é representado como 'E -> a';
 
 Para calcular o valor do campo elétrico (E -> a) gerado por uma carga fonte; 
 
-![[Pasted image 20241001195530.png]]
+![[../../../img/fisica/Pasted image 20241001195530.png]]
 
 Se utiliza:$$| E  | = \frac{K * | Q | }{D^2}$$
 

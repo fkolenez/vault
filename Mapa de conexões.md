@@ -4,16 +4,14 @@ Este arquivo reúne os principais pontos de ligação entre os temas do reposit�
 
 ## 1. Programação e desenvolvimento
 
-- Fundamentos da linguagem: [[programations/JS/What is JS]] → [[programations/TypeScript]] → [[programations/RoadMap Node.js]]
-- Front-end e interface: [[programations/Angular/Angular]] → [[programations/Angular/Template]] → [[programations/Angular/Estilos no Angular]]
-- Back-end e APIs: [[programations/Docs/API de transferências]] → [[Faculdade/Eng. Requisitos/Requisitos]] → [[Faculdade/Testes de qualidade/Definição e importancia]]
-- Infraestrutura e execução: [[Faculdade/SO/Sistemas operacionais]] → [[redes/aula-01]] → [[redes/aula-02]]
+- Back-end e APIs: [[Faculdade/Eng. Requisitos/Requisitos]] → [[Faculdade/Testes de qualidade/Definição e importancia]]
+- Infraestrutura e execução: [[Faculdade/SO/Sistemas operacionais]] → [[Introdução a redes]] → [[Construindo redes com switches]]
 
 ## 2. Engenharia de software e qualidade
 
 - Requisitos e contexto: [[Faculdade/Eng. Requisitos/Requisitos]] → [[Faculdade/Eng. Requisitos II/Elicitação de Requisitos]]
 - Modelagem e organização do código: [[Faculdade/POO/Herança]] → [[Faculdade/POO/Tipos de relacionamentos]]
-- Validação e confiabilidade: [[Faculdade/Testes de qualidade/Definição e importancia]] → [[programations/Docs/API de transferências]]
+- Validação e confiabilidade: [[Faculdade/Testes de qualidade/Definição e importancia]] 
 
 ## 3. Negócio, marketing e crescimento
 
@@ -34,7 +32,6 @@ Este arquivo reúne os principais pontos de ligação entre os temas do reposit�
 
 ## 6. Fluxo de estudo recomendado
 
-1. Comece pelos fundamentos de programação: [[programations/JS/What is JS]] e [[programations/TypeScript]].
-2. Entenda como software é estruturado: [[Faculdade/Eng. Requisitos/Requisitos]], [[Faculdade/POO/Herança]] e [[Faculdade/Testes de qualidade/Definição e importancia]].
-3. Aplique esse conhecimento em APIs e infraestrutura: [[programations/Docs/API de transferências]], [[Faculdade/SO/Sistemas operacionais]] e [[redes/aula-01]].
-4. Conecte tecnologia com negócios e métricas: [[IFC/Empreendedorismo/Marketing]], [[Codigo10k/Modulo 03/Analisando métricas]] e [[Moody/Financy]].
+1. Entenda como software é estruturado: [[Faculdade/Eng. Requisitos/Requisitos]], [[Faculdade/POO/Herança]] e [[Faculdade/Testes de qualidade/Definição e importancia]].
+2. Aplique esse conhecimento em APIs e infraestrutura:  [[Faculdade/SO/Sistemas operacionais]] e [[Introdução a redes]].
+3. Conecte tecnologia com negócios e métricas: [[IFC/Empreendedorismo/Marketing]], [[Codigo10k/Modulo 03/Analisando métricas]] e [[Moody/Financy]].

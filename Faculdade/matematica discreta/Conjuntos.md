@@ -5,7 +5,7 @@
 
 ou por diagrama de Venn
 
-![[diagramaDeVenn.png]]
+![[../../img/matematica/matematicaEscondidinha/diagramaDeVenn.png]]
 
 Então: A = {1, 2, 3, 4 } e 9 ∉ A
 
@@ -32,11 +32,11 @@ Dizemos que um conjunto A é um subconjunto de um conjunto B se, e somente se, t
 
 A notação $\text A \subset  B$   indica que "A é um subconjunto de B", "A está contido em B" ou "A é parte de B"
 
-![[subconjuntos.png]]
+![[../../img/matematica/matematicaEscondidinha/subconjuntos.png]]
 
 Se A não for subconjunto de B, indicamos que $\text A \not\subset  B$ lemos "A não esta contido em B"
 
-![[naopertence.png]]
+![[../../img/matematica/matematicaEscondidinha/naopertence.png]]
 
  Exemplos:
 - { 1, 2 } $\subset$ { 1, 2, 3, 4, 5 }
@@ -54,7 +54,7 @@ Essa propriedade trata da condição de igualdade de dois conjuntos, ou seja, se
 
 - Propriedade transitiva: Se $A \subset B$ e $B \subset C$, então $A \subset C$
 
-![[ABC.png]]
+![[../../img/matematica/matematicaEscondidinha/ABC.png]]
 
 ##### Conjunto das partes
 
