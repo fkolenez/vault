@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"02b5ade2d320ea68","type":"text","text":" Amarelas hibridas (Aa) x Amarelas hibridas (Aa)","x":-288,"y":-20,"width":418,"height":60},
+		{"id":"4e89d37c4eeb7718","type":"text","text":"Amarelo (Aa)","x":-200,"y":180,"width":129,"height":60},
+		{"id":"a360bb684698b8a5","type":"text","text":"Amarelo\n(Aa)","x":-69,"y":180,"width":129,"height":60},
+		{"id":"1cd914e8f93ecfc4","type":"text","text":"Verde (aa)","x":80,"y":150,"width":129,"height":60},
+		{"id":"75a46cf8e6446c8b","type":"text","text":"Amarelo (AA)","x":-352,"y":150,"width":129,"height":60},
+		{"id":"4a42ae9c05385ada","x":-520,"y":150,"width":105,"height":60,"type":"text","text":"F2)\n"},
+		{"id":"77608d68bdc47338","x":-503,"y":-20,"width":167,"height":60,"type":"text","text":"F1)\nHeterozigoto"},
+		{"id":"650d47b52316c9cc","type":"text","text":"Pais P)\nHomozigoto","x":-503,"y":-148,"width":160,"height":60},
+		{"id":"1735608a35a82360","type":"text","text":" Amarelo puro (AA)  X  Verde puro (aa)","x":-260,"y":-148,"width":363,"height":60}
+	],
+	"edges":[
+		{"id":"85c64635dbffed19","fromNode":"1735608a35a82360","fromSide":"bottom","toNode":"02b5ade2d320ea68","toSide":"top"},
+		{"id":"e968a4d2e91df0d3","fromNode":"02b5ade2d320ea68","fromSide":"bottom","toNode":"75a46cf8e6446c8b","toSide":"top"},
+		{"id":"20f705edd09ce3fe","fromNode":"02b5ade2d320ea68","fromSide":"bottom","toNode":"4e89d37c4eeb7718","toSide":"top"},
+		{"id":"60727ff01b52ff73","fromNode":"02b5ade2d320ea68","fromSide":"bottom","toNode":"a360bb684698b8a5","toSide":"top"},
+		{"id":"567d13575e2a8177","fromNode":"02b5ade2d320ea68","fromSide":"bottom","toNode":"1cd914e8f93ecfc4","toSide":"top"}
+	]
+}
