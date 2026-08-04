@@ -1,25 +1,64 @@
-Qual é a media de visualização
-Se baseie por uma métrica padrão, se for a media de views você pode ser basear por isso
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Métricas de conteúdo]
+tags: [marketing, metricas, instagram, analytics]
+sources: []
+source_path: my-vault/Codigo10k/Modulo 03/Analisando métricas.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Marketing|Marketing]]"]
+---
 
-Entender a quanto tempo as pessoas te seguem, o engajamento  **não é proporcional ao número de seguidores e sim ao que aconteceu com seu perfil**, especialmente nos últimos meses 
+# Analisando métricas de conteúdo
 
-Existem aspirais de acertos e erros, não adianta empurrar só conteúdos de vendas sem gerar engajamento porque isso desconta nos acertos, o algoritmo passa a entender que não deve entregar tanto esse conteúdo por não ser algo que agrega a pessoa, então é importante balancear mas mais que isso, acertar em mais desses conteúdos para que tenha mais entrega
+> Métricas só orientam decisões quando estão associadas a um objetivo, a uma linha de base e a um contexto comparável.
 
-Teve todo um tutorial das métricas do instagram, mas isso é bastante intuitivo.
+## Linha de base
 
-Quanto a planilha de métricas, existem perguntas que foram recomendadas:
+Use o desempenho habitual do próprio perfil como referência. A mediana costuma representar melhor o comportamento típico quando há publicações virais. Compare formatos semelhantes e observe períodos equivalentes.
 
-1. Duração dos conteúdos com mais potencial, "Até quantos segundos tem mais potencial"?
-2. Tamanho da legenda ideal?
-3. Como que os vídeos que deram certo começam?
-4. Melhor horário para postagem?
-5. Quantas postagem por dia?
-6. Quais melhores assuntos e como aborda-los?
-7. Qual o melhor tipo de edição (formato de edição)?
-8. Melhores ambientes para gravação? (cor de fundo, ou qual ambiente isso foi gravado)
-9. Melhor conteúdo para captação de leads?
-10. Melhor dia da semana para publicar?
-11. Relação de compartilhamento para novos seguidores em média? (Quantos compartilhamentos vc tem q ter para x quantidade de seguidores)
+O número de seguidores, sozinho, não determina engajamento. Recência, origem da audiência, frequência de uso, assunto, formato e distribuição influenciam o resultado.
 
-Com métricas bem definidas é mais simples direcionar o conteúdo
+## Funil de métricas
 
+| Etapa | Métricas possíveis |
+| --- | --- |
+| Descoberta | alcance, visualizações, proporção de não seguidores |
+| Atenção | retenção inicial, tempo médio, taxa de conclusão |
+| Valor percebido | salvamentos, compartilhamentos, comentários relevantes |
+| Interesse | visitas ao perfil, cliques, mensagens |
+| Conversão | leads, vendas, custo e receita |
+
+Conteúdo de venda e conteúdo educativo não precisam ter o mesmo padrão de engajamento. Avalie cada peça de acordo com sua função no funil.
+
+## Perguntas investigáveis
+
+1. Que duração está associada a maior conclusão em formatos comparáveis?
+2. Como extensão e estrutura da legenda se relacionam com ações relevantes?
+3. Que tipos de abertura mantêm atenção?
+4. Horário e dia produzem diferença consistente?
+5. Qual frequência é sustentável sem reduzir qualidade?
+6. Que temas e abordagens geram o resultado desejado?
+7. Que formatos de edição favorecem compreensão e retenção?
+8. Ambiente, áudio, iluminação e fundo influenciam o consumo?
+9. Que conteúdo gera leads qualificados?
+10. Qual relação existe entre compartilhamentos, visitas e novos seguidores?
+
+Essas perguntas geram hipóteses; não existe uma resposta universal aplicável a todas as contas.
+
+## Conexões
+
+- Eixo principal: [[AI-wiki/wiki/temas/Marketing|Marketing]].
+- Registro: [[my-vault/Codigo10k/modulo 02/Planejamento por planilha|Planejamento por planilha]].
+- Retenção: [[my-vault/Codigo10k/Modulo 03/Dominando a viralização|Retenção e distribuição]].
+- Síntese: [[AI-wiki/wiki/conceitos/Marketing orientado a dados|Marketing orientado a dados]].
+
+## Questões em aberto
+
+- Qual objetivo de negócio orienta a análise atual?
+- Há separação entre alcance orgânico e pago?
+- O período contém mudanças relevantes de estratégia ou público?

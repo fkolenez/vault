@@ -43,8 +43,21 @@ Resultados devem ser avaliados por coortes e experimentos, evitando transformar 
 
 ## Conexões
 
-- [[wiki/temas/Programação|Programação]] implementa experiências, automações e instrumentos de medição.
-- [[wiki/temas/Infraestrutura|Infraestrutura]] sustenta disponibilidade, escala, segurança e custo dos canais.
-- [[wiki/temas/Redes|Redes]] transporta conteúdo e influencia latência e alcance técnico.
-- [[wiki/temas/Sistemas operacionais|Sistemas operacionais]] executa ferramentas de produção, análise e serviços.
+- Bloco: [[wiki/blocos/Negócios e Marketing|Negócios e Marketing]].
 - [[wiki/conceitos/Marketing orientado a dados|Marketing orientado a dados]] detalha o ciclo de aprendizagem.
+
+## Trilha Codigo10k
+
+### Módulo 02 — Posicionamento e preparação
+
+- [[my-vault/Codigo10k/modulo 02/Introdução do curso|Preparação do perfil no Instagram]] — proposta, reconhecimento e conversão.
+- [[my-vault/Codigo10k/modulo 02/Ajustando o perfil|Ajustando o perfil]] — nome, biografia, identidade e destaques.
+- [[my-vault/Codigo10k/modulo 02/Inconsciente coletivo e analise de concorrência|Análise de concorrência e repertório]] — referências, hipóteses e produção intencional.
+- [[my-vault/Codigo10k/modulo 02/Planejamento por planilha|Planejamento por planilha]] — coleta e comparação de resultados.
+
+### Módulo 03 — Distribuição e aprendizagem
+
+- [[my-vault/Codigo10k/Modulo 03/Ativando o algoritmo ao seu favor|Distribuição e estratégia de conteúdo]] — audiência, repertório e conteúdo recorrente.
+- [[my-vault/Codigo10k/Modulo 03/Dominando a viralização|Retenção e distribuição]] — roteiro, duração, legenda e comentários.
+- [[my-vault/Codigo10k/Modulo 03/Gerando engajamento através de outras contas|Colaborações e engajamento externo]] — menções, comentários e parcerias.
+- [[my-vault/Codigo10k/Modulo 03/Analisando métricas|Analisando métricas]] — linha de base, funil e hipóteses.

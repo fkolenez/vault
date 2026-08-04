@@ -1,16 +1,46 @@
-Alelos recessivos
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Dominância incompleta]
+tags: [genetica, dominancia-incompleta]
+sources: []
+source_path: my-vault/IFC/Genética/Dominância incompleta.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Genética|Genética]]"]
+---
 
-vermelha x branca
+# Dominância incompleta
 
+> Na dominância incompleta, o heterozigoto apresenta fenótipo intermediário em relação aos dois homozigotos.
 
-P) vv x bb
-F1) vv vb vb bb
-([[1° Lei de mendel]])
+## Exemplo de flores
 
-As duas vb recebem o nome de fenótipo intermediário, devido aos dois alelos se expressarem a flor recebe uma coloração rosada.
+Considere $C^VC^V$ para flores vermelhas e $C^BC^B$ para brancas:
 
-Proporções:
->Genética: 1:2:1
->Fenotípica: 1:2:1
+$$
+C^VC^V\times C^BC^B\longrightarrow 100\%\ C^VC^B\text{ (rosadas)}
+$$
 
-em situação de dominância incompleta quando cruzamos  heterozigotos, a proporção genotípica é igual a fenotípica
+Ao cruzar duas flores rosadas:
+
+$$
+C^VC^B\times C^VC^B
+$$
+
+obtém-se:
+
+- $1/4$ vermelhas;
+- $1/2$ rosadas;
+- $1/4$ brancas.
+
+As proporções genotípica e fenotípica são ambas $1:2:1$. Isso não significa que os alelos sejam “recessivos”; nenhum domina completamente o outro.
+
+## Conexões
+
+- Base: [[my-vault/IFC/Genética/1° Lei de mendel|Primeira lei de Mendel]].
+- Comparação: [[my-vault/IFC/Genética/Co-Dominância|Codominância]].
+- Tema: [[AI-wiki/wiki/temas/Genética|Genética]].

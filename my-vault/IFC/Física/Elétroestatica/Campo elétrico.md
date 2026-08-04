@@ -1,21 +1,55 @@
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Campo elétrico]
+tags: [fisica, eletrostatica, campo-eletrico]
+sources: []
+source_path: my-vault/IFC/Física/Elétroestatica/Campo elétrico.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Física|Física]]"]
+---
 
--  *Propriedade vetorial do espaço que é gerada por uma carga elétrica 'fonte'*
+# Campo elétrico
 
-Esse campo é representado por linhas de campo, que partem do centro da carga e são perpendiculares a elas;
+> Campo elétrico é uma grandeza vetorial que associa a cada ponto a força por unidade de carga de prova positiva.
 
-Para cargas positivas ( +, Q > 0 ) essas linhas apontam para 'fora' da partícula, para cargas negativas ( - , Q < 0  ) as linhas de campo apontam para 'dentro' da partícula.
+## Definição
 
-Um ponto A no campo é representado como 'E -> a';
+$$
+\vec{E}=\frac{\vec{F}}{q_0}
+$$
 
-Para calcular o valor do campo elétrico (E -> a) gerado por uma carga fonte; 
+Sua unidade no SI é newton por coulomb ($\mathrm{N/C}$), equivalente a volt por metro ($\mathrm{V/m}$).
 
-![[../../../img/fisica/Pasted image 20241001195530.png]]
+Para uma carga puntiforme $Q$ no vácuo, a uma distância $r$:
 
-Se utiliza:$$| E  | = \frac{K * | Q | }{D^2}$$
+$$
+|\vec{E}|=k\frac{|Q|}{r^2},
+\qquad
+k=\frac{1}{4\pi\varepsilon_0}\approx 8{,}99\times10^9\ \mathrm{N\,m^2/C^2}
+$$
 
-- Sendo E a intensidade do campo elétrico em um ponto dele, é diretamente proporcional a Q, quanto maior for a carga maior vai ser o módulo e inversamente proporcional ao quadrado da distância
+$k$ é a **constante de Coulomb**, não a permissividade. $\varepsilon_0$ é a permissividade elétrica do vácuo.
 
-- E K (no vácuo) é uma constante dada por $K = 9*10^9 \frac{N*m²}{C²}$, é chamada de *permissividade elétrica do meio*.
+## Direção e linhas de campo
 
-- Q a carga e D a distância que é SEMPRE ao quadrado
-[[Potencial elétrico]]
+Para uma carga puntiforme positiva, o campo aponta radialmente para fora; para uma negativa, aponta para dentro. Em distribuições mais complexas, as linhas não são necessariamente radiais. A tangente à linha indica a direção do campo, e linhas nunca se cruzam.
+
+Campos de várias cargas somam-se vetorialmente pelo princípio da superposição.
+
+![[my-vault/img/fisica/Pasted image 20241001195530.png]]
+
+## Conexões
+
+- Tema: [[AI-wiki/wiki/temas/Física|Física]].
+- Grandeza escalar associada: [[my-vault/IFC/Física/Elétroestatica/Potencial elétrico|Potencial elétrico]].
+- Armazenamento de carga: [[my-vault/IFC/Física/Elétroestatica/Capacitores em série ou paralelo|Capacitores]].
+
+## Questões em aberto
+
+- Como calcular o campo de várias cargas?
+- Como o meio material altera $k$ e o campo?

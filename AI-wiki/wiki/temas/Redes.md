@@ -30,7 +30,5 @@ ARP spoofing pode redirecionar tráfego local; flooding de MAC tenta degradar a 
 
 ## Conexões
 
-- [[wiki/temas/Programação|Programação]] usa sockets e protocolos de aplicação.
-- [[wiki/temas/Infraestrutura|Infraestrutura]] projeta topologia, capacidade, segmentação e disponibilidade.
-- [[wiki/temas/Sistemas operacionais|Sistemas operacionais]] implementa a pilha, drivers, interfaces e políticas locais.
-- [[wiki/temas/Marketing|Marketing]] depende da entrega rápida e mensurável de experiências digitais.
+- Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].
+- [[wiki/conceitos/Comunicação em camadas|Comunicação em camadas]] organiza as responsabilidades dos protocolos.

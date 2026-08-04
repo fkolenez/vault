@@ -22,4 +22,6 @@ sources: ["[[wiki/fontes/Acervo legado - Marketing]]"]
 6. Interpretar resultado, segmentos e fatores externos.
 7. Documentar decisão e repetir.
 
-Tempo assistido, curtidas e seguidores podem ser sinais intermediários. O resultado útil depende do objetivo final e pode exigir leads qualificados, conversão, margem ou retenção. A instrumentação nasce em [[wiki/temas/Programação|Programação]], opera sobre [[wiki/temas/Infraestrutura|Infraestrutura]], trafega em [[wiki/temas/Redes|Redes]] e executa em [[wiki/temas/Sistemas operacionais|Sistemas operacionais]].
+Tempo assistido, curtidas e seguidores podem ser sinais intermediários. O resultado útil depende do objetivo final e pode exigir leads qualificados, conversão, margem ou retenção.
+
+Bloco: [[wiki/blocos/Negócios e Marketing|Negócios e Marketing]].

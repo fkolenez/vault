@@ -21,8 +21,7 @@ Numa pizza o RF é a massa, o molho e a cobertura, o RNF é o tempo de entrega, 
 
 ### Conexões importantes
 
-- Requisitos viram implementação em APIs e sistemas: [[programations/Docs/API de transferências]]
 - A qualidade da implementação é validada com testes: [[Faculdade/Testes de qualidade/Definição e importancia]]
-- A tipagem e estruturação de código ajudam a transformar requisitos em software: [[programations/TypeScript]]
 
 
+[[Engenharia e qualidade de software|Qualidade de software]]

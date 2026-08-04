@@ -1,73 +1,94 @@
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Equações da reta]
+tags: [matematica, geometria-analitica, retas]
+sources: []
+source_path: my-vault/IFC/Má temática/Equação geral, reduzida e determinantes.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Matemática|Matemática]]"]
+---
 
-### Equação geral da reta
-$Ax + By + C = 0$
+# Equações da reta
 
-### Equação reduzida
-mete-le o Y pro outro lado
+> Uma reta no plano pode ser representada por diferentes equações; a forma escolhida depende das informações disponíveis.
 
-$MX+ N = Y$
+## Forma geral
 
-### Determinantes
-Pense q tu tem dois pontos A (Xa, Ya) B (Xb, Yb), para encontrar a equação geral dessa reta utiliza-se as determinantes
 $$
-D = \begin{bmatrix} 
-	X_{a} & Y_{a} & 1 \\
-	X_{b} & Y_{b} & 1 \\
-	X & Y & 1	
-\end{bmatrix} \\ = 0
+Ax+By+C=0
 $$
-### Inclinação de uma reta:
 
-$$Y= MX + N$$
+$A$ e $B$ não podem ser simultaneamente zero. Retas equivalentes podem ter coeficientes proporcionais.
 
-- M é o coeficiente angular, se ele for positivo a reta é crescente, negativo decrescente
-- N é o coeficiente linear ou seja ele é equivalente ao ponto em que a reta cruza o eixo Y
-##### Exemplos:
+## Forma reduzida
 
-Exemplo 1:
-	$2y + 1 = 0$         *// isolando Y*
-	$y = \frac{-1}{2}$
-	Observando a equação não existe valor para X, então é uma reta constante paralela ao eixo X
+Para uma reta não vertical:
 
-![[../../img/matematica/Pasted image 20241030213655.png]]
+$$
+y=mx+n
+$$
 
-Exemplo 2:
-	$-X + 3 = 0$         *// isolando X*
-	3 = +X
-	Se não tem valor para Y então a reta é constante e paralela ao eixo Y
+- $m$ é o coeficiente angular;
+- $n$ é a ordenada do ponto onde a reta cruza o eixo $y$.
 
-![[../../img/matematica/Pasted image 20241030213739.png]]
+Retas verticais têm equação $x=c$ e não possuem coeficiente angular finito, portanto não admitem forma reduzida $y=mx+n$.
 
-Exemplo 3:
-	$2X - 1 - Y = 0$         *// isolando Y*
-	$2X -1 =Y$
+## Reta por dois pontos
 
-Plotando o gráfico da equação, observa-se que de fato o valor de N (-1) cruza o eixo Y nessa exata coordenada e a reta é crescente.
+Os pontos $A(x_A,y_A)$, $B(x_B,y_B)$ e um ponto genérico $P(x,y)$ são colineares quando:
 
-![[../../img/matematica/Pasted image 20241030213157.png]]
+$$
+\begin{vmatrix}
+x_A & y_A & 1\\
+x_B & y_B & 1\\
+x & y & 1
+\end{vmatrix}=0
+$$
 
-O Coeficiente angular também pode ser calculado através do ângulo formado em relação ao 
-**eixo X**,  $M = \tan{\alpha}$
+Se $x_A\ne x_B$, também é possível calcular:
 
-Lembrando $\tan{\alpha} = \frac{CO}{CA}$
+$$
+m=\frac{y_B-y_A}{x_B-x_A}
+$$
 
-| angulo | 30°                  | 45° | 60°        |
-| ------ | -------------------- | --- | ---------- |
-| tg     | $\frac{\sqrt{3}}{3}$ | 1   | $\sqrt{3}$ |
+## Exemplos
 
-### Posição relativa das retas
+- $2y+1=0\Rightarrow y=-\frac12$: reta horizontal.
+- $-x+3=0\Rightarrow x=3$: reta vertical.
+- $2x-1-y=0\Rightarrow y=2x-1$: $m=2$ e $n=-1$.
 
-Paralelas  -> Mr = Ms
-- Coeficiente angular é igual
+![[my-vault/img/matematica/Pasted image 20241030213655.png]]
+![[my-vault/img/matematica/Pasted image 20241030213739.png]]
+![[my-vault/img/matematica/Pasted image 20241030213157.png]]
 
-Concorrentes -> Mr $\neq$ Ms
-- Coeficiente angular é diferente
-- Elas se cruzam em algum ponto
+## Inclinação
 
-Perpendiculares -> tem um ângulo de 90° entre as retas
-- $Mr =  \frac{-1}{Ms}$
+Quando $\alpha$ é o ângulo orientado da reta com o semieixo positivo de $x$:
 
-Coincidentes -> A equação é a mesma
-- Se a equação é a mesma a reta é a mesma
+$$m=\tan\alpha$$
 
-pra calcular a [[Distância entre pontos, ponto médio, mediana e baricentro]]
+## Posição relativa
+
+Para retas não verticais:
+
+- **paralelas distintas:** $m_1=m_2$ e interceptos diferentes;
+- **concorrentes:** $m_1\ne m_2$;
+- **perpendiculares:** $m_1m_2=-1$;
+- **coincidentes:** coeficientes gerais proporcionais.
+
+Casos com retas verticais devem ser avaliados separadamente.
+
+## Conexões
+
+- Tema: [[AI-wiki/wiki/temas/Matemática|Matemática]].
+- Coordenadas: [[my-vault/IFC/Má temática/Distância entre pontos, ponto médio, mediana e baricentro|Distância e pontos notáveis]].
+
+## Questões em aberto
+
+- Como calcular a distância de um ponto a uma reta?
+- Como converter entre formas geral, reduzida e paramétrica?

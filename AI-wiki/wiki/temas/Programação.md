@@ -33,7 +33,5 @@ Testes funcionais verificam comportamento; testes não funcionais investigam des
 
 ## Conexões
 
-- [[wiki/temas/Marketing|Marketing]] define público, problema e sinais de resultado.
-- [[wiki/temas/Infraestrutura|Infraestrutura]] fornece ambientes, dados, implantação e observabilidade.
-- [[wiki/temas/Redes|Redes]] oferece comunicação distribuída sujeita a latência, perda e falhas.
-- [[wiki/temas/Sistemas operacionais|Sistemas operacionais]] fornece processos, memória, arquivos, permissões e I/O.
+- Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].
+- [[wiki/conceitos/Engenharia e qualidade de software|Engenharia e qualidade de software]] organiza requisitos, implementação, testes e operação.

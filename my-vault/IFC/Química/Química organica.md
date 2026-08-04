@@ -1,3 +1,0 @@
-
-[[Funções orgânicas]]
-[[Reações orgânicas]]

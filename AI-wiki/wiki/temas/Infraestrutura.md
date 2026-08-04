@@ -35,7 +35,4 @@ As fontes atuais aprofundam apenas segurança por emissões e laboratórios. Vir
 
 ## Conexões
 
-- Hospeda o que [[wiki/temas/Programação|Programação]] produz.
-- Usa [[wiki/temas/Redes|Redes]] para integração e entrega.
-- administra instâncias de [[wiki/temas/Sistemas operacionais|Sistemas operacionais]].
-- traduz demanda de [[wiki/temas/Marketing|Marketing]] em requisitos de capacidade, disponibilidade e custo.
+- Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].

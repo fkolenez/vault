@@ -15,3 +15,5 @@ sources: ["[[wiki/fontes/Acervo legado - Programação]]"]
 Requisitos tornam objetivos verificáveis; projeto distribui responsabilidades; implementação materializa regras; testes produzem evidência; operação revela o comportamento no mundo real. Nenhuma etapa isolada garante qualidade.
 
 Testes unitários isolam componentes, testes de integração examinam fronteiras, testes de sistema avaliam o conjunto e testes de aceitação verificam valor e critérios do usuário. Atributos como desempenho e disponibilidade dependem também de [[wiki/temas/Infraestrutura|Infraestrutura]], [[wiki/temas/Redes|Redes]] e [[wiki/temas/Sistemas operacionais|Sistemas operacionais]].
+
+Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].

@@ -47,6 +47,18 @@ Use primeiro o wiki compilado e depois as fontes necessárias para confirmar det
 - `sources` no frontmatter contém wikilinks entre aspas.
 - Não cite `instructions.md`, templates ou outras páginas operacionais como evidência.
 
+## Política de conexões
+
+- `wiki/index.md` é a única raiz da categoria `llm-wiki`.
+- O wiki é dividido em blocos. Toda página temática pertence a um único bloco principal.
+- O `index.md` aponta apenas para blocos e arquivos operacionais; não liste todas as páginas nele.
+- Páginas-folha apontam para seu tema; temas apontam para seu bloco. Evite atalhos que ignorem essa hierarquia.
+- Não conecte domínios só porque existe uma dependência genérica. Por exemplo, Marketing não se conecta a Redes apenas porque sites usam internet.
+- Uma ligação entre blocos exige dependência conceitual direta, explicável numa frase e útil para estudar o conteúdo.
+- Não crie mapas globais “tudo com tudo”. Mapas e trilhas pertencem ao bloco correspondente.
+- Antes de adicionar um link, pergunte: “seguir este link ajuda a compreender o conceito atual?”. Se não, omita.
+- Não crie `README.md` dentro de `wiki/`; esses arquivos aparecem como nós sem valor no grafo do Obsidian.
+
 ## Frontmatter mínimo
 
 Páginas de conhecimento devem conter:

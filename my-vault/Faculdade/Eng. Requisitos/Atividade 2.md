@@ -23,3 +23,5 @@
 | RNF03 | @  funcionar durante todo o periodo de funcionamento da universidade,  abrangendo os periodos: matutino verspertino e noturno | Confiabilidade |                    |             |
 | RNF04 | @ criptografar as informações sensiveis do aluno: cpf, nome, senha e email utilizando hash                                    | Segurança      |                    |             |
 | RNF05 | @ deve gerar relatorios em no maximo 2 segundos                                                                               | Desempenho     |                    |             |
+
+Bloco: [[Engenharia e qualidade de software|Qualidade de software]]

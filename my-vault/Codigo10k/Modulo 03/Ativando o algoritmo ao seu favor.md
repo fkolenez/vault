@@ -1,28 +1,60 @@
-### Base de seguidores & networking
-É importante pra um começo de Instagram ter  uma base de seguidores solida e homogênea, os primeiros seguidores tem q ser parecidos para que o algoritmo entenda pra quem ele deve divulgar (eu posso estar errado, mas isso se eu não me engado é qualificação de lead)
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Distribuição e estratégia de conteúdo]
+tags: [marketing, distribuicao, conteudo, audiencia]
+sources: []
+source_path: my-vault/Codigo10k/Modulo 03/Ativando o algoritmo ao seu favor.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Marketing|Marketing]]"]
+---
 
-Não adianta de nada você sempre usar os trending topics mas não ter uma conexão do q é a vontade do cliente com o seu produto. Esses exemplos clássicos de lojas genéricas que vendem qualquer coisa, criam uma trend muito sem querer estouram mas não geram conexão com os clientes porque o conteúdo/produto simplesmente não é pra eles. Isso pode até parecer bom, mas pra quem esta iniciando uma conta no Instagram pode acabar confundindo o algoritmo.
+# Distribuição e estratégia de conteúdo
 
-É essencial também criar um networking inicial para digamos "começar a girar a engrenagem", divulgar pra pessoas que fazem sentido 
+> A distribuição tende a melhorar quando conteúdo, público e proposta são coerentes; não existe uma forma garantida de “ativar” o algoritmo.
 
-Clientes que já compraram seu serviço: seria mandar mensagem pra essas pessoas para ganhar mais seguidores ( não é nosso caso, porque simplesmente não temos vendas. )
+## Formação da audiência
 
-#### Listagem de bons conteúdos
-Isso aqui é pra conteúdo publico, é um formato que viraliza mais de uma vez
-Ir no perfil da pessoa, ver oq mais viralizou (acima da média de view) contas com 100k
-Como são 3 posts por dia, são pelo menos 90 conteúdos listados
-Existem conteúdos que não precisam ser estudados a fundo, só a headline já basta pra criar algo em cima
-Tomar cuidado com a data, um post de 2020 talvez não seja tão valido
-Os formatos podem vir de diferentes nichos, é só questão de adaptar
-Conteúdos públicos, são exatamente esses reels que seguem um padrão, o clássico padrão twitter, ou qualquer outro formato, faça isso ao invés daquilo...
+No início, divulgar o perfil para pessoas com interesse real pode produzir sinais mais úteis do que acumular seguidores sem afinidade. Isso não significa que os primeiros seguidores precisam ser homogêneos nem que determinem permanentemente a distribuição.
 
-| Tema                            | Link              | +/- quantidade de views |
-| ------------------------------- | ----------------- | ----------------------- |
-| React de que as pessoas falaram | link do instagram | 100k                    |
+Tendências devem ser adaptadas à necessidade do público e à proposta da marca. Alcance sem relação com o produto pode aumentar números de vaidade sem gerar interesse ou conversão.
 
-##### Conteúdo original
-É um conteúdo replicável, aquele q sempre é possível fazer de novo mas de diferentes maneiras, em geral são conteúdos mais rotineiros, fazendo coisas do dia a dia. Porém tem que tomar cuidado com a falta de validação do publico, se após 30 vídeos postados não gerar resultado, não é valido continuar com esse tipo de conteúdo 
+Networking pode apoiar descoberta por meio de clientes, parceiros, comunidades e criadores relacionados. O contato precisa ser relevante, consentido e evitar mensagens em massa.
 
-Manter sempre a mesma edição e fonte, pra isso é bom sempre manter as mesmas cores, marca d'agua e etc.
+## Biblioteca de referências
 
-Em proporção um vídeo de conteúdo original sempre trás mais seguidores do que um conteúdo publico, digamos que um video com 100k views, um original vai trazer em proporção mais seguidores do que um de conteúdo publico.
+Registre conteúdos que tiveram desempenho acima da linha de base da própria conta observada:
+
+| Campo | Descrição |
+| --- | --- |
+| Tema | assunto central |
+| Formato | reel, carrossel, texto ou outro |
+| Abertura | como a atenção foi conquistada |
+| Evidência | visualizações e outras ações, com data |
+| Hipótese | por que o conteúdo pode ter funcionado |
+| Adaptação | como transformar a ideia com autoria própria |
+
+Contas grandes não são automaticamente comparáveis. Tamanho, público, mídia paga e histórico precisam entrar na análise. Uma headline isolada raramente explica o resultado completo.
+
+## Conteúdo recorrente e autoral
+
+Formatos recorrentes facilitam produção e reconhecimento. Conteúdo autoral pode mostrar processos, rotina, opinião, casos e aprendizados, desde que mantenha utilidade para o público.
+
+Não há número universal de publicações necessário para validar um formato. Defina previamente janela, frequência, qualidade mínima e métrica de sucesso. Consistência visual ajuda reconhecimento, mas não deve impedir evolução baseada em evidência.
+
+## Conexões
+
+- Eixo principal: [[AI-wiki/wiki/temas/Marketing|Marketing]].
+- Pesquisa: [[my-vault/Codigo10k/modulo 02/Inconsciente coletivo e analise de concorrência|Análise de concorrência]].
+- Distribuição orgânica: [[my-vault/Codigo10k/Modulo 03/Gerando engajamento através de outras contas|Engajamento por outras contas]].
+- Avaliação: [[my-vault/Codigo10k/Modulo 03/Analisando métricas|Analisando métricas]].
+
+## Questões em aberto
+
+- Que público o perfil pretende atrair?
+- Qual formato é sustentável com a capacidade atual?
+- Que critério determinará manter, ajustar ou interromper uma série?

@@ -1,30 +1,64 @@
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Pontos notáveis e distâncias]
+tags: [matematica, geometria-analitica, triangulos]
+sources: []
+source_path: my-vault/IFC/Má temática/Distância entre pontos, ponto médio, mediana e baricentro.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Matemática|Matemática]]"]
+---
 
-### Distância entre pontos:
-Se for paralelo (Final menos inicial, importante lembrar disso):$$ D = |Xb - Xa| $$
-Se tiver na diagonal o bag fica doido: $$ D=  \sqrt{(Xb -Xa)² +(Yb - Ya)^²}$$
-sempre lembrar que é o FINAL menos O INICIAL
+# Distância, ponto médio, mediana e baricentro
 
-### Ponto médio:
-Esse aqui não importa a ordem, fode-se só some e divida por dois
--  É um ponto em que a reta se divide ao meio, é apenas uma **localização**;
-$$ M = (\frac{Xa + Xb}{2}) , (\frac{Ya + Yb}{2}) $$
-### Mediana:
-Pense em um triangulo retângulo ABC em que BC é a hipotenusa, se BC  é a hipotenusa então o ângulo oposto é o ligado ao vértice A (no caso do triangulo retângulo 90°);
+> A geometria analítica traduz posições e relações geométricas em coordenadas e equações.
 
-Se tu calcular o ponto médio de BC (ponto em destaque) e traçar uma linha reta nele essa linha vai cruzar o vértice A conceitualmente é isso.
+## Distância entre dois pontos
 
-![[../../img/matematica/tesao%201.png]]
+Para $A(x_A,y_A)$ e $B(x_B,y_B)$:
 
-### Baricentro
-- Como o próprio nome sugere, é o centro de alguma coisa
-- Pense em um triangulo equilátero DEF, baricentro é **o encontro das três medianas do triangulo**
+$$
+d(A,B)=\sqrt{(x_B-x_A)^2+(y_B-y_A)^2}
+$$
 
-![[../../img/matematica/tesao2.png]]
+Se os pontos têm a mesma ordenada, $d=|x_B-x_A|$; se têm a mesma abscissa, $d=|y_B-y_A|$. A ordem não altera o resultado devido ao módulo ou ao quadrado.
 
-O ponto em destaque é então o baricentro
+## Ponto médio
 
-pra calcular tu não precisa necessariamente calcular o ponto médio de cada vértice, simplesmente use:
+$$
+M=\left(\frac{x_A+x_B}{2},\frac{y_A+y_B}{2}\right)
+$$
 
-$$ Baricentro = (\frac{Xa + Xb + Xc}{3}, (\frac{Ya + Yb + Yc}{3} ) $$
+$M$ divide o segmento $\overline{AB}$ em duas partes de mesmo comprimento.
 
-**OBS importante:** observando cada equação ela calcula separadamente X depois Y, isso acontece porque no plano cartesiano vc precisa de duas coordenadas para definir um ponto;
+## Mediana de um triângulo
+
+Mediana é o segmento que liga um vértice ao ponto médio do lado oposto. Todo triângulo possui três medianas; a definição não se limita a triângulos retângulos.
+
+![[my-vault/img/matematica/tesao 1.png]]
+
+## Baricentro
+
+O baricentro, ou centroide, é a interseção das três medianas. Para vértices $A$, $B$ e $C$:
+
+$$
+G=\left(\frac{x_A+x_B+x_C}{3},\frac{y_A+y_B+y_C}{3}\right)
+$$
+
+Ele divide cada mediana na razão $2:1$, com a parte maior junto ao vértice.
+
+![[my-vault/img/matematica/tesao2.png]]
+
+## Conexões
+
+- Tema: [[AI-wiki/wiki/temas/Matemática|Matemática]].
+- Retas: [[my-vault/IFC/Má temática/Equação geral, reduzida e determinantes|Equações da reta]].
+
+## Questões em aberto
+
+- Como obter a equação de uma mediana?
+- Como calcular área de um triângulo por determinantes?

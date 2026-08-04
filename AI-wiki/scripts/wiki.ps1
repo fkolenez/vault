@@ -10,6 +10,7 @@ param(
 $ErrorActionPreference = 'Stop'
 [Console]::OutputEncoding = [System.Text.UTF8Encoding]::new($false)
 $VaultRoot = Split-Path -Parent $PSScriptRoot
+$WorkspaceRoot = Split-Path -Parent $VaultRoot
 $WikiRoot = Join-Path $VaultRoot 'wiki'
 $RawInbox = Join-Path $VaultRoot 'raw\inbox'
 
@@ -65,19 +66,30 @@ switch ($Command) {
             if ($page.Name -notin @('index.md', 'log.md') -and -not $content.StartsWith('---')) {
                 $issues.Add("frontmatter ausente: $relative")
             }
-            if ($page.Name -notin @('index.md', 'log.md', 'contradicoes.md', 'visao-geral.md')) {
+            if ($page.Directory.Name -eq 'blocos') {
                 $stem = [IO.Path]::GetFileNameWithoutExtension($page.Name)
                 $indexContent = Get-Content -Raw -Encoding UTF8 -LiteralPath (Join-Path $WikiRoot 'index.md')
                 if ($indexContent -notmatch [regex]::Escape($stem)) {
-                    $issues.Add("possivelmente ausente do índice: $relative")
+                    $issues.Add("bloco ausente do índice: $relative")
                 }
             }
         }
 
         $knownTargets = @{}
-        Get-ChildItem -LiteralPath $VaultRoot -Recurse -File -Filter '*.md' | ForEach-Object {
-            $rel = (Get-VaultRelativePath $_.FullName).Replace('\', '/')
-            $knownTargets[$rel.Substring(0, $rel.Length - 3).ToLowerInvariant()] = $true
+        Get-ChildItem -LiteralPath $WorkspaceRoot -Recurse -File | ForEach-Object {
+            $workspacePrefix = $WorkspaceRoot.TrimEnd('\') + '\'
+            $workspaceRel = $_.FullName.Substring($workspacePrefix.Length).Replace('\', '/')
+            $knownTargets[$workspaceRel.ToLowerInvariant()] = $true
+            if ($_.Extension -eq '.md') {
+                $knownTargets[$workspaceRel.Substring(0, $workspaceRel.Length - 3).ToLowerInvariant()] = $true
+            }
+            if ($_.FullName.StartsWith($VaultRoot.TrimEnd('\') + '\', [System.StringComparison]::OrdinalIgnoreCase)) {
+                $vaultRel = (Get-VaultRelativePath $_.FullName).Replace('\', '/')
+                $knownTargets[$vaultRel.ToLowerInvariant()] = $true
+                if ($_.Extension -eq '.md') {
+                    $knownTargets[$vaultRel.Substring(0, $vaultRel.Length - 3).ToLowerInvariant()] = $true
+                }
+            }
             $knownTargets[[IO.Path]::GetFileNameWithoutExtension($_.Name).ToLowerInvariant()] = $true
         }
         foreach ($page in $pages) {

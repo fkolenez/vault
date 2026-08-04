@@ -70,11 +70,5 @@ Não há uma definição universalmente aceita. Algumas abordagens comuns:
 - "Um sistema operacional é o programa que atua como intermediário entre usuário, aplicativo e o hardware do computador, controlando a execução de programas e gerenciando a alocação de recursos para garantir o uso eficiente e seguro da máquina."
 - "Um software que tem a capacidade de gerenciar e disponibilizar recursos computacionais para os aplicativos instalados sobre ele."
 
-### Conexões importantes
-
-- O funcionamento do sistema depende da comunicação entre hardware e software: [[redes/aula-01]]
-- Aplicativos e serviços rodam sobre esse gerenciamento de recursos: [[programations/Docs/API de transferências]]
-- A execução do software é influenciada por abstrações de processos, memória e arquivos: [[programations/JS/What is JS]]
-
 
 

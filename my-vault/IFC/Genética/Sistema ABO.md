@@ -1,26 +1,47 @@
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Sistema sanguíneo ABO]
+tags: [genetica, sistema-abo, codominancia]
+sources: []
+source_path: my-vault/IFC/Genética/Sistema ABO.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Genética|Genética]]"]
+---
 
-[[Alelos múltiplos]] I a = I b > i
+# Sistema sanguíneo ABO
 
-Ia e Ib são codominantes entre si.
+> O sistema ABO é determinado principalmente pelos alelos $I^A$, $I^B$ e $i$; $I^A$ e $I^B$ são codominantes, e ambos dominam $i$.
 
-As hemácias possuem dois tipos de glicoproteínas A e B, quando a hemácia possuem as duas é chamado de AB e quando possuir apenas uma respectiva, no caso de não possuir nenhuma é chamado de sangue O (por esse motivo é que o sangue O é o doador universal)
+## Genótipos e fenótipos
 
-Resumo:
+| Fenótipo | Genótipos | Antígenos nas hemácias | Anticorpos plasmáticos usuais |
+| --- | --- | --- | --- |
+| A | $I^AI^A$ ou $I^Ai$ | A | anti-B |
+| B | $I^BI^B$ ou $I^Bi$ | B | anti-A |
+| AB | $I^AI^B$ | A e B | nenhum anti-A/anti-B regular |
+| O | $ii$ | nenhum A/B | anti-A e anti-B |
 
-- O doa pra A B e AB e recebe só dele mesmo
-- A O e ele mesmo
-- B O e ele mesmo
-- AB A B O e ele mesmo
+Antígenos são estruturas presentes na superfície das hemácias; anticorpos incompatíveis podem causar aglutinação e hemólise.
 
-| Fenotipo  | Genotipos      | Aglutinogênio (antigeno) | Aglutinina (anticorpo) |
-| --------- | -------------- | ------------------------ | ---------------------- |
-| Sangue A  | I a I a, I a i | tipo A                   | Anti-B                 |
-| Sangue B  | I b I b, Ib i  | tipo B                   | Anti-A                 |
-| Sangue AB | I a I b        | tipo A e tipo B          | --                     |
-| Sangue O  | ii             | --                       | Anti-A e anti-B        |
-Aglutinogênio: é oque esta na hemácia para caracterizar o sangue 
-(Ex: uma pessoa do tipo A possui aglutigênios do tipo A)
+## Compatibilidade
 
-Aglutinina: está no plasma, a aglutinina aglutina o sangue estranho (faz com que as hemácias fiquem amontoadas), é uma proteína de ataque.
-Ex: porque o sangue O só recebe dele mesmo? Porque possui os dois anti-corpos que atacariam as hemácias A e B, fazendo com que ele só possa receber um sangue que não tenha nem A nem B
+Para transfusão de **hemácias**, O é compatível com mais receptores no sistema ABO, e AB recebe mais tipos ABO. Entretanto, “doador universal” exige considerar também fator Rh, outros antígenos, componente transfundido e testes de compatibilidade. Plasma segue lógica diferente. Decisões transfusionais pertencem a profissionais e serviços de saúde.
 
+## Conexões
+
+- Polialelia: [[my-vault/IFC/Genética/Alelos múltiplos|Alelos múltiplos]].
+- Expressão simultânea: [[my-vault/IFC/Genética/Co-Dominância|Codominância]].
+- Tema: [[AI-wiki/wiki/temas/Genética|Genética]].
+
+## Questão em aberto
+
+- Como o sistema Rh altera a compatibilidade transfusional e gestacional?
+
+## Referência verificada
+
+- [American Red Cross — Blood Types](https://www.redcrossblood.org/donate-blood/blood-types.html)

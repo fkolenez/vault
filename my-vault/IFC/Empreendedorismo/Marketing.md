@@ -1,28 +1,49 @@
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Fundamentos de marketing]
+tags: [empreendedorismo, marketing, composto-de-marketing]
+sources: []
+source_path: my-vault/IFC/Empreendedorismo/Marketing.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Marketing|Marketing]]"]
+---
 
--  Surgiu aproximadamente 2100 anos a.C., com o crescimento de cidades surgiram os mercados que serviam para venderem e comprarem produtos. Artesões foram os primeiros 'marketeiros' pois trabalhavam visando públicos específicos;
+# Fundamentos de marketing
 
--  Não adianta ter um bom produto se ninguém estiver convencido a comprá-lo, marketing é o principal elo entre o empreendedor e o cliente;
+> Marketing envolve compreender necessidades, criar uma proposta de valor e coordenar sua oferta, comunicação e entrega ao público escolhido.
 
-- Sua função é fazer com que o produto ou serviço chegue da melhor forma possível até o consumidor final;
+## Contexto histórico
 
-#### 4 P's do marketing:
+Práticas de troca, divulgação e adaptação de produtos existem desde as sociedades antigas, mas não há uma data única para o “surgimento do marketing”. Como disciplina empresarial, o marketing se consolidou principalmente no século XX.
 
-Define os quatro pilares básicos para estratégias de marketing;
+Um bom produto não basta quando o público não compreende seu valor, não consegue encontrá-lo ou não confia na oferta. Marketing conecta necessidades do mercado às decisões do negócio.
 
- > - Preço, produtos, praça e promoção;
- 
- -  Preço: valor que você cobra aos seus produtos e serviços, precisa envolver o psicológico do cliente. Ex: Elevar o preço de um produto para aumentar a percepção de valor dele, causando uma 'recompensa' maior por usufrui-lo, isso serve também para os consumidores pagarem mais por produtos com suposta qualidade melhor.
-	==Estratégias de preço: promoção, descontos, subsídios, parcelamento;==
- 
--  Produtos/serviços: Diz respeito aquilo que se vende. dentro das estratégias de marketing existem algumas características para atrair mais clientes, como por exemplo: ==Qualidade, design, tamanhos, embalagem, garantia, retorno, cores e etc==. Se resume a oferecer um bom produto ou serviço para seu nicho.
+## Os quatro Ps
 
--  Praça: Lugar aonde se oferece seus produtos, loja física ou online. 
- > "Seu produto deve estar aonde o seu cliente esta!".
- 
- - Promoção: (no sentido literal de promover) são estratégias para divulgar o seu produto de maneira que a escolha dele seja natural para o consumidor final. Ela envolve: ==propaganda, publicidade, rede sociais, site, feedback do produto.==
+| Pilar | Pergunta central | Exemplos de decisões |
+| --- | --- | --- |
+| **Produto** | Que valor será entregue? | qualidade, design, variedade, embalagem, garantia e suporte |
+| **Preço** | Como o valor será capturado? | preço, desconto, parcelamento e condições |
+| **Praça** | Onde e como ocorrerá a entrega? | loja física, comércio eletrônico, canais e logística |
+| **Promoção** | Como o valor será comunicado? | conteúdo, publicidade, relações públicas e vendas |
 
-### Conexões importantes
+Preço influencia percepção, mas elevar um valor não cria qualidade por si só. A decisão deve considerar custos, concorrência, posicionamento, disposição a pagar e objetivos do negócio.
 
-- O estudo do mercado define melhor a mensagem: [[IFC/Empreendedorismo/Mercado]]
-- Estratégias de conteúdo e alcance se conectam com análise de métricas: [[Codigo10k/Modulo 03/Analisando métricas]]
-- Decisões financeiras e de investimento também influenciam a comunicação do negócio: [[Moody/Financy]]
+“Promoção” significa promover a oferta e não apenas conceder descontos. O composto funciona como sistema: uma comunicação convincente não compensa produto inadequado, preço inviável ou canal inacessível.
+
+## Conexões
+
+- Eixo canônico: [[AI-wiki/wiki/temas/Marketing|Marketing]].
+- Mercado: [[my-vault/IFC/Empreendedorismo/Mercado|Estudo de mercado e comunicação]].
+- Aplicação digital: [[my-vault/Codigo10k/modulo 02/Introdução do curso|Preparação do perfil no Instagram]].
+
+## Questões em aberto
+
+- Qual público e necessidade orientam a oferta?
+- Como os quatro Ps reforçam o mesmo posicionamento?
+- Que evidência demonstra valor para o cliente e para o negócio?

@@ -76,8 +76,4 @@ Quanto mais proximo do 0 mais é uma distribuiçao é homogenena, quanto mais di
 
 ## distribuição binominal
 
-### Conexões importantes
-
-- A estatística ajuda a interpretar métricas de alcance e desempenho: [[Codigo10k/Modulo 03/Analisando métricas]]
-- Em marketing, ela auxilia a comparar públicos, campanhas e resultados: [[IFC/Empreendedorismo/Marketing]]
-- Em software, permite analisar dados, testes e comportamento do sistema: [[Faculdade/Testes de qualidade/Definição e importancia]]
+[[Matemática]]

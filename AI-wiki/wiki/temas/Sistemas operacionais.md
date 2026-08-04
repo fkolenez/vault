@@ -33,9 +33,7 @@ Em sistemas legados BIOS/MBR, código no primeiro setor inicia a cadeia de boot.
 
 ## Conexões
 
-- Executa artefatos de [[wiki/temas/Programação|Programação]].
-- Fornece a pilha e as interfaces usadas por [[wiki/temas/Redes|Redes]].
-- É configurado, monitorado e protegido por [[wiki/temas/Infraestrutura|Infraestrutura]].
-- Sustenta as ferramentas e serviços digitais de [[wiki/temas/Marketing|Marketing]].
+- Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].
+- [[wiki/conceitos/Gestão de recursos computacionais|Gestão de recursos computacionais]] aprofunda as abstrações do sistema.
 
 ([[wiki/fontes/Acervo legado - Sistemas operacionais|fonte]])

@@ -1,20 +1,42 @@
-Doenças> não autossômica, esta ligada ao sexo
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Herança ligada ao sexo]
+tags: [genetica, cromossomos-sexuais, heranca]
+sources: []
+source_path: my-vault/IFC/Genética/Herança Sexual.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Genética|Genética]]"]
+---
 
-- Ligada ao sexo -> Parte não homóloga (que não a correspondência com o outro lado) do cromossomo X;
-- Restrita ao sexo -> Cromossomo Y; (Só ocorre em indivíduos que possuem o cromos só Y (homens))
-- Influenciada pelo sexo -> É autossômica mas com expressão diferente conforme o sexo.
+# Herança relacionada ao sexo
 
-Ligadas ao sexo:
-> Ex: hemofilia, daltonismo, distrofia muscular de duchane
+> Padrões relacionados ao sexo resultam da localização de genes nos cromossomos sexuais ou de diferenças de expressão associadas ao sexo biológico.
 
-Home típico: Xd, Y
-Mulher típica: XD, XD
+## Categorias
 
-Homem daltônico: Xd, Y
-Mulher daltônica: Xd, Xd
-Mulher portadora: XD, Xd
-(do alelo)
+- **Ligada ao X:** gene localizado no cromossomo X; em indivíduos XY, uma única cópia recessiva pode manifestar o fenótipo.
+- **Ligada ao Y (holândrica):** gene na região específica do Y, transmitido de pai para filhos que recebem esse cromossomo.
+- **Influenciada pelo sexo:** gene autossômico cuja expressão ou dominância varia conforme fatores sexuais.
+- **Limitada ao sexo:** gene presente nos dois sexos, mas fenótipo expresso apenas em um contexto sexual.
 
-[[1° Lei de mendel]]
+Hemofilia A, formas comuns de daltonismo vermelho-verde e distrofia muscular de Duchenne são exemplos clássicos ligados ao X.
 
+## Exemplo recessivo ligado ao X
 
+Usando $X^D$ para visão típica e $X^d$ para daltonismo recessivo:
+
+- $X^dY$: indivíduo XY afetado;
+- $X^DX^d$: indivíduo XX heterozigoto, geralmente não afetado, mas com possível variação de expressão;
+- $X^dX^d$: indivíduo XX afetado.
+
+“Portadora” não significa ausência garantida de manifestação, devido a fatores como inativação do X.
+
+## Conexões
+
+- Base: [[my-vault/IFC/Genética/1° Lei de mendel|Primeira lei de Mendel]].
+- Tema: [[AI-wiki/wiki/temas/Genética|Genética]].

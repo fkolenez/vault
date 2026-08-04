@@ -15,3 +15,5 @@ sources: ["[[wiki/fontes/Acervo legado - Redes]]"]
 Essa separação permite trocar uma tecnologia sem reescrever todo o sistema. Ethernet e ARP tratam o enlace local; IP conecta redes; TCP/UDP oferecem transporte; DNS, HTTP e outros protocolos atendem aplicações. As fronteiras são modelos úteis, não garantia de implementação perfeitamente isolada.
 
 [[wiki/temas/Sistemas operacionais|Sistemas operacionais]] implementam grande parte da pilha; [[wiki/temas/Programação|programas]] usam APIs como sockets; [[wiki/temas/Infraestrutura|infraestrutura]] configura topologias e políticas.
+
+Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].

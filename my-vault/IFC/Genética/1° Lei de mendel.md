@@ -1,24 +1,58 @@
-> Ou segregação de fatores
-> ou Pureza dos gametas
+---
+type: source
+status: active
+created: 2026-08-04
+updated: 2026-08-04
+aliases: [Primeira lei de Mendel, Lei da segregação]
+tags: [genetica, mendel, segregacao]
+sources: []
+source_path: my-vault/IFC/Genética/1° Lei de mendel.md
+source_type: lecture-notes
+source_date:
+ingested: 2026-08-04
+related: ["[[AI-wiki/wiki/temas/Genética|Genética]]"]
+---
 
-Se um coelho Aa for se reproduzir, vai acontecer um processo de meiose, em que o número de cromossomos ao meio, ou seja, ele manda A ou a.
+# Primeira lei de Mendel
 
-Dai que surge o nome "pureza dos gametas", apenas o gameta A ou a vai formar o filhotinhor.
+> Os dois alelos de um gene segregam durante a formação dos gametas; cada gameta recebe apenas um deles.
 
-###### Mendel usou ervilhas porque:
+## Segregação dos alelos
 
-1.  Facilidade de cultivo;
-2. Características marcadamente distintas;
-3. Ciclo de vida curto;
-4. Fácil polinização artificial. 
-   (Essencial porque ele poderia selecionar qual ervilha cruzar com qual)
+Um indivíduo diploide heterozigoto $Aa$ possui os alelos em cromossomos homólogos. Na meiose, esses cromossomos se separam e, em condições ideais, metade dos gametas recebe $A$ e metade recebe $a$.
 
-###### [[Experimento de Mendel.canvas|Experimento de Mendel]]
+O nome histórico “pureza dos gametas” expressa essa separação, mas gametas contêm milhares de genes; são “puros” apenas no sentido de carregar um alelo de cada locus.
 
-Proporções a partir do experimento:
+## Cruzamento mono-híbrido
 
->Genotípicas: 1 AA, 2 Aa, 1 aa
->Fenotípicas: 3 Amarelo e 1 Verde
+No cruzamento $Aa\times Aa$:
 
-Doença **Autossômica**:
-Não é sexual
+| | $A$ | $a$ |
+| --- | --- | --- |
+| $A$ | $AA$ | $Aa$ |
+| $a$ | $Aa$ | $aa$ |
+
+- proporção genotípica: $1AA:2Aa:1aa$;
+- com dominância completa: proporção fenotípica $3:1$.
+
+A proporção fenotípica 3:1 depende de dominância completa, penetrância e viabilidade equivalentes; não é consequência universal de qualquer gene.
+
+## Por que Mendel utilizou ervilhas
+
+- cultivo relativamente simples;
+- ciclo e descendência adequados ao experimento;
+- caracteres contrastantes;
+- autofecundação e cruzamentos controláveis.
+
+Anexo: [[my-vault/IFC/Genética/Experimento de Mendel.canvas|Experimento de Mendel]].
+
+## Conexões
+
+- Tema: [[AI-wiki/wiki/temas/Genética|Genética]].
+- Dois genes: [[my-vault/IFC/Genética/Segunda lei de mendel|Segunda lei de Mendel]].
+- Variações: [[my-vault/IFC/Genética/Dominância incompleta|Dominância incompleta]] e [[my-vault/IFC/Genética/Co-Dominância|Codominância]].
+
+## Questões em aberto
+
+- Como ligação gênica altera as proporções esperadas?
+- Como penetrância e ambiente afetam o fenótipo?

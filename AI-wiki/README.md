@@ -1,6 +1,6 @@
 # LLM Wiki
 
-Este vault opera em três camadas: fontes imutáveis, um wiki compilado por LLM e um contrato operacional. Abra `wiki/visao-geral.md` no Obsidian para começar.
+Este vault opera em três camadas: fontes imutáveis, um wiki compilado por LLM e um contrato operacional. Abra `wiki/index.md` no Obsidian para começar.
 
 ## Uso rápido
 
