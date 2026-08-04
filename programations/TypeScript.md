@@ -124,3 +124,10 @@ A tipagem para o 'generic' é com esse menor T maior.
 ![[Pasted image 20241107225218.png]][
 
 Ai tem tudo a piroca de POO, mas vai se fode q eu vou estudar isso em TS
+
+### Conexões importantes
+
+- Fundamentos de linguagem: [[programations/JS/What is JS]]
+- Aplicação prática em front-end: [[programations/Angular/Angular]]
+- Organização de software e requisitos: [[Faculdade/Eng. Requisitos/Requisitos]]
+- Validação de comportamento: [[Faculdade/Testes de qualidade/Definição e importancia]]

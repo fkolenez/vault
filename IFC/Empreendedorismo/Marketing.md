@@ -20,3 +20,9 @@ Define os quatro pilares básicos para estratégias de marketing;
  > "Seu produto deve estar aonde o seu cliente esta!".
  
  - Promoção: (no sentido literal de promover) são estratégias para divulgar o seu produto de maneira que a escolha dele seja natural para o consumidor final. Ela envolve: ==propaganda, publicidade, rede sociais, site, feedback do produto.==
+
+### Conexões importantes
+
+- O estudo do mercado define melhor a mensagem: [[IFC/Empreendedorismo/Mercado]]
+- Estratégias de conteúdo e alcance se conectam com análise de métricas: [[Codigo10k/Modulo 03/Analisando métricas]]
+- Decisões financeiras e de investimento também influenciam a comunicação do negócio: [[Moody/Financy]]

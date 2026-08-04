@@ -19,4 +19,10 @@ RNF: "A transação deve ser processada em até 5 segundos com criptografia."
 
 Numa pizza o RF é a massa, o molho e a cobertura, o RNF é o tempo de entrega, o sabor, a temperatura.
 
+### Conexões importantes
+
+- Requisitos viram implementação em APIs e sistemas: [[programations/Docs/API de transferências]]
+- A qualidade da implementação é validada com testes: [[Faculdade/Testes de qualidade/Definição e importancia]]
+- A tipagem e estruturação de código ajudam a transformar requisitos em software: [[programations/TypeScript]]
+
 
