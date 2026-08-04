@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Redes de computadores]
 tags: [redes, comunicacao]
-sources: ["[[wiki/fontes/Acervo legado - Redes]]"]
+sources: []
 ---
 
 # Redes
@@ -26,7 +26,7 @@ T568A e T568B definem a ordem dos condutores em conectores de par trançado. Cab
 
 ## Segurança
 
-ARP spoofing pode redirecionar tráfego local; flooding de MAC tenta degradar a capacidade de encaminhamento seletivo do switch. Mitigações incluem segmentação, port security, inspeção ARP dinâmica, DHCP snooping, criptografia ponta a ponta e monitoramento. ([[wiki/fontes/Acervo legado - Redes|fontes]])
+ARP spoofing pode redirecionar tráfego local; flooding de MAC tenta degradar a capacidade de encaminhamento seletivo do switch. Mitigações incluem segmentação, port security, inspeção ARP dinâmica, DHCP snooping, criptografia ponta a ponta e monitoramento.
 
 ## Conexões
 

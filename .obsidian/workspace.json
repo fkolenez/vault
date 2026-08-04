@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-vault/Projetos/Coffe Counter.md",
+                "file": "my-vault/IFC/Empreendedorismo/Marketing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coffe Counter"
+              "title": "Marketing"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my-vault/Projetos/Coffe Counter.md",
+                "file": "my-vault/IFC/Empreendedorismo/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my-vault/Projetos/Coffe Counter.md",
+                "file": "my-vault/IFC/Empreendedorismo/Marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my-vault/Projetos/Coffe Counter.md",
+                "file": "my-vault/IFC/Empreendedorismo/Marketing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,11 +190,16 @@
   },
   "active": "0d80eef3af1a92d1",
   "lastOpenFiles": [
-    "my-vault/Projetos/CarrerOS.md",
+    "AI-wiki/wiki/temas/Física.md",
+    "my-vault/Faculdade/Estatistica/estatistica.md",
+    "AI-wiki/wiki/index.md",
+    "AI-wiki/wiki/blocos/Negócios e Marketing.md",
+    "AI-wiki/wiki/blocos/Acervo e Projetos.md",
+    "AI-wiki/wiki/temas/Projetos.md",
     "my-vault/Projetos/Coffe Counter.md",
+    "my-vault/Projetos/CarrerOS.md",
     "README.md",
     "programations/Docs/API de transferências.md",
-    "AI-wiki/wiki/blocos/Acervo e Projetos.md",
     "my-vault/Projetos",
     "AI-wiki/wiki/fontes/Acervo legado - Outros domínios.md",
     "AI-wiki/wiki/fontes/Acervo legado - Infraestrutura.md",
@@ -205,18 +210,13 @@
     "AI-wiki/wiki/temas/Marketing.md",
     "AI-wiki/wiki/temas/Infraestrutura.md",
     "AI-wiki/wiki/temas/Genética.md",
-    "AI-wiki/wiki/temas/Física.md",
-    "AI-wiki/wiki/index.md",
     "my-vault/Faculdade/Eng. Requisitos/Requisitos.md",
     "my-vault/Excalidraw/Drawing 2025-01-13 21.43.37.excalidraw.md",
-    "my-vault/Faculdade/Estatistica/estatistica.md",
     "my-vault/Faculdade/SO/Sistemas operacionais.md",
     "my-vault/Faculdade/Testes de qualidade/Definição e importancia.md",
     "AI-wiki/templates/fonte.md",
     "my-vault/Faculdade/Eng. Requisitos/Atividade 2.md",
     "AI-wiki/wiki/conceitos/Comunicação em camadas.md",
-    "AI-wiki/wiki/visao-geral.md",
-    "AI-wiki/wiki/blocos/Ciências e Matemática.md",
     "AI-wiki/wiki/blocos",
     "programations/Docs",
     "programations"

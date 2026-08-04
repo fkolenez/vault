@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Qualidade de software]
 tags: [programacao, requisitos, testes]
-sources: ["[[wiki/fontes/Acervo legado - Programação]]"]
+sources: []
 ---
 
 # Engenharia e qualidade de software

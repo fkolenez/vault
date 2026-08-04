@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Growth orientado a dados]
 tags: [marketing, dados, experimentacao]
-sources: ["[[wiki/fontes/Acervo legado - Marketing]]"]
+sources: []
 ---
 
 # Marketing orientado a dados

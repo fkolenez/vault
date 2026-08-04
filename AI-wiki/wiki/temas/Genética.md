@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Genética do IFC]
 tags: [genetica, biologia]
-sources: ["[[AI-wiki/wiki/fontes/Acervo legado - Outros domínios]]"]
+sources: []
 ---
 
 # Genética

@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Marketing e crescimento]
 tags: [marketing, negocio]
-sources: ["[[wiki/fontes/Acervo legado - Marketing]]"]
+sources: []
 ---
 
 # Marketing
@@ -39,7 +39,7 @@ Cada objetivo exige métrica correspondente:
 | Conversão | leads, taxa de conversão, custo por aquisição |
 | Negócio | receita, margem, retenção, valor do cliente |
 
-Resultados devem ser avaliados por coortes e experimentos, evitando transformar correlação em causalidade. ([[wiki/fontes/Acervo legado - Marketing|fontes]])
+Resultados devem ser avaliados por coortes e experimentos, evitando transformar correlação em causalidade.
 
 ## Conexões
 

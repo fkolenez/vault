@@ -20,10 +20,6 @@ sources: []
 
 - [[wiki/conceitos/Marketing orientado a dados|Marketing orientado a dados]] — hipóteses, métricas e experimentação.
 
-## Fontes compiladas
-
-- [[wiki/fontes/Acervo legado - Marketing|Acervo legado — Marketing]]
-
 ## Limite do bloco
 
 Este bloco não inclui programação, redes ou infraestrutura. Uma campanha ou ferramenta digital pode usar tecnologia, mas essa dependência operacional não constitui, por si só, uma conexão conceitual de Marketing.

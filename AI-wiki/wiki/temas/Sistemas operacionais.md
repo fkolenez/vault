@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [SO, Sistemas Operacionais]
 tags: [sistemas-operacionais, computacao]
-sources: ["[[wiki/fontes/Acervo legado - Sistemas operacionais]]"]
+sources: []
 ---
 
 # Sistemas operacionais
@@ -35,5 +35,3 @@ Em sistemas legados BIOS/MBR, código no primeiro setor inicia a cadeia de boot.
 
 - Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].
 - [[wiki/conceitos/Gestão de recursos computacionais|Gestão de recursos computacionais]] aprofunda as abstrações do sistema.
-
-([[wiki/fontes/Acervo legado - Sistemas operacionais|fonte]])

@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Desenvolvimento de software]
 tags: [programacao, software]
-sources: ["[[wiki/fontes/Acervo legado - Programação]]"]
+sources: []
 ---
 
 # Programação
@@ -25,7 +25,7 @@ sources: ["[[wiki/fontes/Acervo legado - Programação]]"]
 
 Herança representa “é um” e deve preservar o contrato da superclasse. Associação é uma ligação genérica; agregação representa todo–parte com vida independente; composição implica propriedade forte e ciclo de vida controlado pelo todo. Interfaces descrevem capacidades sem forçar hierarquias frágeis.
 
-No sistema de pedidos das notas, finalizar uma compra é uma única operação de negócio: verificar disponibilidade, cobrar, baixar estoque, creditar vendedores, mudar status e persistir. Se uma etapa falhar, a transação precisa impedir estado parcial. Comparações de `String` em Java usam `equals`/`equalsIgnoreCase`, e entradas externas exigem validação. ([[wiki/fontes/Acervo legado - Programação|fontes]])
+No sistema de pedidos das notas, finalizar uma compra é uma única operação de negócio: verificar disponibilidade, cobrar, baixar estoque, creditar vendedores, mudar status e persistir. Se uma etapa falhar, a transação precisa impedir estado parcial. Comparações de `String` em Java usam `equals`/`equalsIgnoreCase`, e entradas externas exigem validação.
 
 ## Qualidade
 

@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Química do IFC]
 tags: [quimica, quimica-organica]
-sources: ["[[AI-wiki/wiki/fontes/Acervo legado - Outros domínios]]"]
+sources: []
 ---
 
 # Química

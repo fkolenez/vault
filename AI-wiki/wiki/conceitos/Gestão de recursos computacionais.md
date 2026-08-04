@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Gerenciamento de recursos]
 tags: [sistemas-operacionais, infraestrutura]
-sources: ["[[wiki/fontes/Acervo legado - Sistemas operacionais]]"]
+sources: []
 ---
 
 # Gestão de recursos computacionais

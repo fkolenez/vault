@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Infraestrutura de TI]
 tags: [infraestrutura, operacao, seguranca]
-sources: ["[[wiki/fontes/Acervo legado - Infraestrutura]]"]
+sources: []
 ---
 
 # Infraestrutura
@@ -31,7 +31,7 @@ Inclui computação, armazenamento, instalações, identidades, configuração, 
 
 ## Lacunas do acervo
 
-As fontes atuais aprofundam apenas segurança por emissões e laboratórios. Virtualização, contêineres, nuvem, CI/CD, backup, monitoramento e gestão de configuração ainda precisam de fontes específicas. ([[wiki/fontes/Acervo legado - Infraestrutura|fontes]])
+As fontes atuais aprofundam apenas segurança por emissões e laboratórios. Virtualização, contêineres, nuvem, CI/CD, backup, monitoramento e gestão de configuração ainda precisam de fontes específicas.
 
 ## Conexões
 

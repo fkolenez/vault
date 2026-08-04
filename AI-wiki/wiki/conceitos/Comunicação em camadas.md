@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Camadas de rede]
 tags: [redes, protocolos]
-sources: ["[[wiki/fontes/Acervo legado - Redes]]"]
+sources: []
 ---
 
 # Comunicação em camadas

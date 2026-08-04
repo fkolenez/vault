@@ -53,3 +53,10 @@ Entradas são acrescentadas ao final e não devem ser reescritas.
 
 - Conectados diretamente ao índice os nove arquivos da pasta `wiki/temas`.
 - Mantidos os quatro blocos como navegação secundária para comparação visual.
+
+## [2026-08-04] ingest | CareerOS e Coffee Counter
+
+- Revisadas e estruturadas as duas especificações em `my-vault/Projetos/`.
+- Separados problema, proposta, MVP, roadmap, riscos, critérios de sucesso e próximos passos.
+- Criado o tema Projetos dentro do bloco Acervo e Projetos.
+- Evitadas conexões automáticas com áreas técnicas baseadas apenas nas tecnologias citadas.

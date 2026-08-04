@@ -16,15 +16,15 @@ Use uma seção por conflito. Inclua alegações, fontes, impacto, estado e reso
 
 ### Regras universais de desempenho no Instagram
 
-As notas apresentam duração, frequência, formato e padrões de engajamento como regras gerais. Foram reclassificados como hipóteses dependentes de público, objetivo e período. Falta evidência exportada da conta para validá-los. ([[wiki/fontes/Acervo legado - Marketing|fonte]])
+As notas apresentam duração, frequência, formato e padrões de engajamento como regras gerais. Foram reclassificados como hipóteses dependentes de público, objetivo e período. Falta evidência exportada da conta para validá-los.
 
 ### Escopo insuficiente de infraestrutura
 
-O eixo é exigido pelo mapa, mas o acervo quase não possui fontes sobre operação de servidores, nuvem, automação ou observabilidade. A página canônica distingue fundamentos gerais de afirmações sustentadas diretamente pelas notas. ([[wiki/fontes/Acervo legado - Infraestrutura|fonte]])
+O acervo quase não possui fontes sobre operação de servidores, nuvem, automação ou observabilidade. A página canônica distingue fundamentos gerais de afirmações sustentadas diretamente pelas notas.
 
 ### Credenciais em texto simples
 
-Uma nota de laboratório contém senhas. Elas foram excluídas da síntese, mas permanecem na fonte legada. A validade e a necessidade de rotação ainda não foram verificadas. ([[wiki/fontes/Acervo legado - Infraestrutura|registro]])
+Uma nota de laboratório contém senhas. Elas foram excluídas da síntese, mas permanecem na fonte legada. A validade e a necessidade de rotação ainda não foram verificadas.
 
 ## Resolvidas
 

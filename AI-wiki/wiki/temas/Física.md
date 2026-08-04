@@ -5,7 +5,7 @@ created: 2026-08-04
 updated: 2026-08-04
 aliases: [Física do IFC]
 tags: [fisica, eletrostatica]
-sources: ["[[AI-wiki/wiki/fontes/Acervo legado - Outros domínios]]"]
+sources: []
 ---
 
 # Física
@@ -21,8 +21,6 @@ sources: ["[[AI-wiki/wiki/fontes/Acervo legado - Outros domínios]]"]
 ## Conexões
 
 - Bloco: [[wiki/blocos/Ciências e Matemática|Ciências e Matemática]].
-- A geometria e a álgebra usadas nos cálculos pertencem a [[wiki/temas/Matemática|Matemática]].
-
 ## Lacunas
 
 Força elétrica, Lei de Gauss, circuitos, magnetismo, ondas e mecânica ainda não possuem páginas canônicas neste eixo.
