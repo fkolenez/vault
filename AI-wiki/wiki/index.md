@@ -15,7 +15,6 @@ Esta é a única raiz da categoria `llm-wiki`. A navegação segue a hierarquia 
 
 ## Temas
 
-- [[AI-wiki/wiki/temas/Marketing|Marketing]]
 - [[AI-wiki/wiki/temas/Programação|Programação]]
 - [[AI-wiki/wiki/temas/Sistemas operacionais|Sistemas operacionais]]
 - [[AI-wiki/wiki/temas/Redes|Redes]]
