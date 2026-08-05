@@ -25,11 +25,15 @@ Esta é a única raiz da categoria `llm-wiki`. A navegação segue a hierarquia 
 - [[AI-wiki/wiki/temas/Química|Química]]
 - [[AI-wiki/wiki/temas/Genética|Genética]]
 - [[AI-wiki/wiki/temas/Projetos|Projetos]]
+- [[AI-wiki/wiki/temas/Inteligência e política externa|Inteligência e política externa]]
+- [[AI-wiki/wiki/temas/Ética e sociedade|Ética e sociedade]]
 
 ## Blocos
 
 - [[AI-wiki/wiki/blocos/Negócios e Marketing|Negócios e Marketing]]
 - [[AI-wiki/wiki/blocos/Tecnologia|Tecnologia]]
+- [[AI-wiki/wiki/blocos/Política e Segurança|Política e Segurança]]
+- [[AI-wiki/wiki/blocos/Ciências Humanas|Ciências Humanas]]
 
 ## Manutenção
 

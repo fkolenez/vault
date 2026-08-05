@@ -2,7 +2,7 @@
 type: topic
 status: active
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-05
 aliases: [Projetos pessoais]
 tags: [projetos, produto, portfolio]
 sources: []
@@ -16,6 +16,7 @@ sources: []
 
 - [[my-vault/Projetos/CarrerOS|CareerOS]] — sistema pessoal de estudos e desenvolvimento profissional.
 - [[my-vault/Projetos/Coffe Counter|Coffee Counter IoT]] — laboratório de IoT para firmware, sincronização e observabilidade.
+- [[my-vault/Projetos/PeyDay|PeiDay]] — aplicativo acadêmico para POO II com GUI, persistência, estatísticas e gamificação.
 
 ## Convenção
 

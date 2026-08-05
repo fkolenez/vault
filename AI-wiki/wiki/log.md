@@ -66,3 +66,31 @@ Entradas são acrescentadas ao final e não devem ser reescritas.
 - Revisadas as notas `Introdução a redes.md` e `Construindo redes com switches.md`.
 - Corrigidos conceitos de ICMP, TTL, traceroute, hub, DNS, cabeamento, tabela MAC e ARP.
 - Adicionados frontmatter, trilha didática, questões de revisão e links bidirecionais com o tema Redes.
+
+## [2026-08-04] query | Conceito de blowback
+
+- Criado o bloco Política e Segurança e o tema Inteligência e política externa.
+- Criada a página conceitual [[wiki/conceitos/Blowback|Blowback]] com distinção entre o sentido de inteligência/política externa e o mecanismo de armas de fogo.
+- Ingerida a fonte [[wiki/fontes/CIA Spy Speak Glossary|CIA Spy Speak Glossary]] para estabilizar a definição contemporânea.
+- Registrada lacuna sobre ingestão futura da fonte primária histórica de 1954 associada a TPAJAX.
+
+## [2026-08-04] ingest | Eterna vigilância
+
+- Criada a página [[wiki/fontes/Eterna vigilância|Eterna vigilância]] para o livro de Edward Snowden.
+- Explicados termos de inteligência usados para leitura da obra: COs, HUMINT, SIGINT, NSA, CIA, inteligência, vigilância em massa, metadados e need-to-know.
+- Ingerida a página [[wiki/fontes/NSA Signals Intelligence Overview|NSA Signals Intelligence Overview]] como apoio para SIGINT.
+- Atualizados o tema [[wiki/temas/Inteligência e política externa|Inteligência e política externa]] e o bloco [[wiki/blocos/Política e Segurança|Política e Segurança]].
+
+## [2026-08-04] ingest | Ética, moral e valores
+
+- Revisada a nota `my-vault/Faculdade/Etica/Etica moral e valores.md` com correções conceituais, ortográficas e estrutura didática.
+- Criados o bloco [[wiki/blocos/Ciências Humanas|Ciências Humanas]] e o tema [[wiki/temas/Ética e sociedade|Ética e sociedade]].
+- Criadas as páginas [[wiki/fontes/Ética, moral e valores - nota de aula|Ética, moral e valores - nota de aula]] e [[wiki/conceitos/Ética, moral, valores e direito|Ética, moral, valores e direito]].
+- Atualizado o índice para incluir o novo bloco e tema.
+
+## [2026-08-05] ingest | PeiDay para POO II
+
+- Adaptado `my-vault/Projetos/PeyDay.md` como aplicativo acadêmico para a disciplina de POO II.
+- Reduzido o escopo de produto completo para MVP demonstrável com Java, GUI, persistência local, modelagem orientada a objetos e critérios de apresentação.
+- Adicionados requisitos, telas, classes principais, conceitos de POO II aplicados, roadmap, riscos e próximos passos.
+- Atualizado o tema [[wiki/temas/Projetos|Projetos]] para incluir o PeiDay como projeto ativo.
