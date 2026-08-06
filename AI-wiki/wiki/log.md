@@ -94,3 +94,10 @@ Entradas são acrescentadas ao final e não devem ser reescritas.
 - Reduzido o escopo de produto completo para MVP demonstrável com Java, GUI, persistência local, modelagem orientada a objetos e critérios de apresentação.
 - Adicionados requisitos, telas, classes principais, conceitos de POO II aplicados, roadmap, riscos e próximos passos.
 - Atualizado o tema [[wiki/temas/Projetos|Projetos]] para incluir o PeiDay como projeto ativo.
+
+## [2026-08-05] ingest | Responsabilidade de software
+
+- Revisado e convertido para Markdown o arquivo `my-vault/Faculdade/Etica/Responsabilidade de software.md`.
+- Corrigidos conceitos, ortografia, hierarquia e exemplos sobre software como ação em escala.
+- Criadas as páginas [[wiki/fontes/Responsabilidade de software - nota de aula|Responsabilidade de software - nota de aula]] e [[wiki/conceitos/Responsabilidade profissional em software|Responsabilidade profissional em software]].
+- Atualizados o tema [[wiki/temas/Ética e sociedade|Ética e sociedade]], o bloco [[wiki/blocos/Ciências Humanas|Ciências Humanas]] e o conceito [[wiki/conceitos/Ética, moral, valores e direito|Ética, moral, valores e direito]].

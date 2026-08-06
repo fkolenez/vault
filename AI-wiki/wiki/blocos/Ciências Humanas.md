@@ -2,7 +2,7 @@
 type: topic
 status: active
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-05
 aliases: [Humanidades, Bloco de Ciências Humanas]
 tags: [bloco, ciencias-humanas, filosofia, sociedade]
 sources: []
@@ -19,6 +19,7 @@ sources: []
 ## Conceitos
 
 - [[wiki/conceitos/Ética, moral, valores e direito|Ética, moral, valores e direito]] — distinções básicas para julgar ações e decisões.
+- [[wiki/conceitos/Responsabilidade profissional em software|Responsabilidade profissional em software]] — riscos sociais e deveres profissionais em sistemas técnicos.
 
 ## Limite do bloco
 

@@ -2,10 +2,10 @@
 type: concept
 status: active
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-05
 aliases: [Ética moral e valores, Diferença entre ética moral valores e direito]
 tags: [etica, moral, valores, direito, tecnologia]
-sources: ["[[wiki/fontes/Ética, moral e valores - nota de aula|Ética, moral e valores - nota de aula]]"]
+sources: ["[[wiki/fontes/Ética, moral e valores - nota de aula|Ética, moral e valores - nota de aula]]", "[[wiki/fontes/Responsabilidade de software - nota de aula|Responsabilidade de software - nota de aula]]"]
 ---
 
 # Ética, moral, valores e direito
@@ -30,6 +30,8 @@ Essa distinção ajuda a analisar decisões em tecnologia porque sistemas não s
 ## Tecnologia e neutralidade
 
 A nota de aula enfatiza que decisões técnicas também carregam escolhas sociais ([[wiki/fontes/Ética, moral e valores - nota de aula|fonte]]). Arquitetura, algoritmo, interface, coleta de dados e segurança incorporam valores, mesmo quando parecem decisões puramente técnicas.
+
+[[wiki/conceitos/Responsabilidade profissional em software|Responsabilidade profissional em software]] aprofunda esse ponto ao tratar software como ação em escala: um erro, omissão ou escolha injusta pode ser repetida automaticamente por um sistema e afetar muitas pessoas.
 
 ## Relações
 
