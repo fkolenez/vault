@@ -101,3 +101,11 @@ Entradas são acrescentadas ao final e não devem ser reescritas.
 - Corrigidos conceitos, ortografia, hierarquia e exemplos sobre software como ação em escala.
 - Criadas as páginas [[wiki/fontes/Responsabilidade de software - nota de aula|Responsabilidade de software - nota de aula]] e [[wiki/conceitos/Responsabilidade profissional em software|Responsabilidade profissional em software]].
 - Atualizados o tema [[wiki/temas/Ética e sociedade|Ética e sociedade]], o bloco [[wiki/blocos/Ciências Humanas|Ciências Humanas]] e o conceito [[wiki/conceitos/Ética, moral, valores e direito|Ética, moral, valores e direito]].
+
+## [2026-08-06] ingest | Testes de qualidade
+
+- Revisadas as três notas em `my-vault/Faculdade/Testes de qualidade/` com datas preservadas ou atribuídas: 2026-07-29, 2026-08-05 e 2026-08-06.
+- Corrigidos conceitos, ortografia e hierarquia sobre importância dos testes, fundamentos de testes de software e teste de caixa preta.
+- Criadas as fontes [[wiki/fontes/Definição e importância dos testes de software - nota de aula|Definição e importância dos testes de software - nota de aula]], [[wiki/fontes/Fundamentos de testes de software - nota de aula|Fundamentos de testes de software - nota de aula]] e [[wiki/fontes/Teste de caixa preta - nota de aula|Teste de caixa preta - nota de aula]].
+- Criados os conceitos [[wiki/conceitos/Testes de software|Testes de software]] e [[wiki/conceitos/Teste de caixa preta|Teste de caixa preta]].
+- Atualizados [[wiki/conceitos/Engenharia e qualidade de software|Engenharia e qualidade de software]] e [[wiki/temas/Programação|Programação]] para integrar os novos conteúdos.

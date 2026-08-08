@@ -2,7 +2,7 @@
 type: topic
 status: active
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-06
 aliases: [Desenvolvimento de software]
 tags: [programacao, software]
 sources: []
@@ -35,3 +35,4 @@ Testes funcionais verificam comportamento; testes não funcionais investigam des
 
 - Bloco: [[wiki/blocos/Tecnologia|Tecnologia]].
 - [[wiki/conceitos/Engenharia e qualidade de software|Engenharia e qualidade de software]] organiza requisitos, implementação, testes e operação.
+- [[wiki/conceitos/Testes de software|Testes de software]] detalha níveis, categorias e terminologia de qualidade.
